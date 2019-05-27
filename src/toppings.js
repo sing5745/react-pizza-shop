@@ -23,6 +23,11 @@ const sampleToppings = {
         right: "BO-right",
         full: "BO"
       },
+      GreenPepper: {
+        left: "GP-left",
+        right: "GP-right",
+        full: "GP"
+      }
 };
 
 export default sampleToppings;
