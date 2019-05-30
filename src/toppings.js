@@ -27,6 +27,11 @@ const sampleToppings = {
         left: "GP-left",
         right: "GP-right",
         full: "GP"
+      },
+      Brocolli: {
+        left: "BR-left",
+        right: "BR-right",
+        full: "BR"
       }
 };
 
